@@ -1,4 +1,4 @@
-# Hello, I'm Your Name 👋
+# Hello, I'm Girish Badamikar 👋
 
 ## About Me
 
