@@ -19,7 +19,7 @@ Here are some of the technologies and tools I work with:
 
 ## GitHub Stat
 
-![Girish's Github Stats](https://github-readme-stats.vercel.app/api?username=girish0903&show_icons=true&hide=contribs,prs&theme=radical)
+![girish0903's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=girish0903&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 ## Connect with Me
