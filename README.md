@@ -17,9 +17,9 @@ Here are some of the technologies and tools I work with:
 - 🛢️ MySQL
 - 🔧 Git | VS Code 
 
-## GitHub Stats
+## GitHub Stat
 
-![Girish's Github Stats](https://github-readme-stats.vercel.app/api?username=girish0903&show_icons=true&hide=contribs,prs&theme=radical)
+[![Girish's GitHub Stats](https://img.shields.io/badge/GitHub-Stats-blueviolet?style=flat&logo=github)](https://github.com/girish0903)
 
 ## Connect with Me
 
