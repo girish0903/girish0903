@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hello, I'm Your Name 👋
 
-<!--
-**girish0903/girish0903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate developer who loves to code and build cool projects. Here are a few things about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Few Shot Image Classification](https://github.com/girish0903/Few-Shot-Classification-for-Lung-Cancer-Detection.git)
+- 🌱 I’m currently learning about MongoDB and Express
+- 💬 Ask me about web development, JavaScript, or anything tech-related
+
+## Technologies and Tools
+
+Here are some of the technologies and tools I work with:
+
+- 💻 JavaScript | HTML | CSS | C++ | Python 
+- 🚀 Node.js | React | Angular
+- 🛢️ MySQL
+- 🔧 Git | VS Code 
+
+## GitHub Stats
+
+![Girish's Github Stats](https://github-readme-stats.vercel.app/api?username=girish0903&show_icons=true&hide=contribs,prs&theme=radical)
+
+## Connect with Me
+
+- 📧 Email: gbadamikar@gmail.com
+- 💼 LinkedIn: [Girish Badamikar](https://www.linkedin.com/in/girish-badamikar-bb2a20233/)
+
