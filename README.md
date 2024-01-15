@@ -19,7 +19,8 @@ Here are some of the technologies and tools I work with:
 
 ## GitHub Stat
 
-[![Girish's GitHub Stats](https://img.shields.io/badge/GitHub-Stats-blueviolet?style=flat&logo=github)](https://github.com/girish0903)
+![Girish's Github Stats](https://github-readme-stats.vercel.app/api?username=girish0903&show_icons=true&hide=contribs,prs&theme=radical)
+
 
 ## Connect with Me
 
