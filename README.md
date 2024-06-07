@@ -39,7 +39,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/girish0903/girish0903/output/snake.svg" alt="Snake animation" />
 
 ###
 
