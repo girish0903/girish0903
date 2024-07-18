@@ -1,4 +1,4 @@
-![logo](https://github.com/girish0903/girish0903/blob/main/github-header-image%20(1).png)
+![logo](https://github.com/girish0903/girish0903/blob/main/github-header-image%20(2).png)
 
 <h1 align="center">Hi 👋, I'm Girish</h1>
 <h3 align="center">CSE Final Year Student</h3>
