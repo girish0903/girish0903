@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Girish</h1>
 <h3 align="center">CSE Final Year Student</h3>
 
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0QDxUnCJtTlnlWvAzU5vIh&ust=1721406986938000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOimuv6CsYcDFQAAAAAdAAAAABAE">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=girish0903&label=Profile%20views&color=0e75b6&style=flat" alt="girish0903" /> </p>
 
 - 🔭 I’m currently working on [HSRP Detection and Classification](https://github.com/girish0903/HSRP-Detection-and-Classification)
