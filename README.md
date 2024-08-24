@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gbadamikar@gmail.com**
 
-- 📄 Check my Resume here [https://tinyurl.com/mvvamuzy](https://tinyurl.com/mvvamuzy)
+- 📄[Check my Resume here](https://drive.google.com/file/d/1g5ymez48NNzoPkEA_QeLa5gpvjfrTVgz/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
